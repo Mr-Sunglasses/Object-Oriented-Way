@@ -6,4 +6,5 @@
 4 - Encapsulation
 5 - Polymorphism
 
-https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200623174126/Python-OOPS-Concept.png
+![OOPS_Image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200623174126/Python-OOPS-Concept.png)
+
